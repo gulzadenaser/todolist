@@ -2,7 +2,13 @@ Hello,
 
 Here is the front end usage explaining as a screen capturing Youtube video link
 >>
+[Front End Description]
+-----------------------
 https://www.youtube.com/watch?v=f24KFyUyrHY
+
+[Backend Description]
+-------------------------
+https://www.youtube.com/watch?v=oZqgsN_o23E
 
 >>
 This project is based on the given task for an interview job postion in laravel,
