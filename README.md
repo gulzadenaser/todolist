@@ -1,6 +1,6 @@
 Hello,
 
-Here is the front end usage explaining as a screen capturing,
+Here is the front end usage explaining as a screen capturing Youtube video link
 >>
 https://www.youtube.com/watch?v=f24KFyUyrHY
 
