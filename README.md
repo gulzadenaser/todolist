@@ -1,5 +1,10 @@
 Hello,
 
+Here is the front end usage explaining as a screen capturing,
+>>
+https://www.youtube.com/watch?v=f24KFyUyrHY
+
+>>
 This project is based on the given task for an interview job postion in laravel,
 This project has simple two tables for crud operation and authentication which is created in migration folder.
 -  Brief Explanation:
